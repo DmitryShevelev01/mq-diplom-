@@ -1054,31 +1054,6 @@ body{
 	max-width: 292px;
 	width: 100%; 
 }
-
-
-/*.goods{	
-	flex-wrap: wrap;
-}
-
-
-.foto-goods{
-	
-}
-
-.foto-goods:nth-child(2n+2){
-	margin-top: 90px;
-	margin-bottom: 90px;
-}
-
-/*.foto-goods:nth-child(n+3){
-	margin-top: 259px;
-	margin-right: 519px;
-}*/
-
-.section-name{
-	/*width: 100vw;*/
-}
-
 	
 			/*FOOTER*/
 .footer{
